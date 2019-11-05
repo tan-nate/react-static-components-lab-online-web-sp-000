@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import ExampleComponent from './ExampleComponent'
+import TestComponent from './TestComponent'
 
 class App extends Component {
 	render() {
