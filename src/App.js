@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import ExampleComponent from './ExampleComponent'
-import TestComponent from './TestComponent'
+import EinsteinQuoteComponent from './EinsteinQuoteComponent'
+import CatComponent from './CatComponent'
 
 class App extends Component {
 	render() {
